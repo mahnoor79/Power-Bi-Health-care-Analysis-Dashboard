@@ -6,15 +6,19 @@ Hey there! I'm super excited to share this Power BI project where I’ve explore
 ## 📁 About the Dataset
 The dataset contains 24,490 rows and 19 columns, covering a wide range of healthcare-related details like:
 
-### 1) Patient Demographics: ID, Gender, Age, and Blood Type
+### 1) Patient Demographics: 
+ID, Gender, Age, and Blood Type
 
-### 2) Clinical Details: Medical Conditions, Medications, and Test Results
+### 2) Clinical Details:
+Medical Conditions, Medications, and Test Results
 
-### 3) Administrative Info: Hospitals, Insurance Providers, and Admission Types
+### 3) Administrative Info: 
+Hospitals, Insurance Providers, and Admission Types
 
-### 4) Billing & Discharge: Billing Amounts, Discharge Dates (Month/Year)
+### 4) Billing & Discharge: 
+Billing Amounts, Discharge Dates (Month/Year)
 
-### 5) This dataset provides a 360-degree view of patient journeys, hospital performances, and financial flows in the healthcare system. Let’s dive into what I discovered!
+This dataset provides a 360-degree view of patient journeys, hospital performances, and financial flows in the healthcare system. Let’s dive into what I discovered!
 
 # 📊 Dashboard Highlights
 ## 🟩 Page 1: Financial & Admission Insights
